@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+fake_useragent
+undetected_chromedriver==3.5.0
+pyodbc
+google-generativeai
