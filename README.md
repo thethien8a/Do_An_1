@@ -1,4 +1,4 @@
-<img width="781" height="647" alt="image" src="https://github.com/user-attachments/assets/0e941d4e-749d-4e94-8c46-a59e2d3cce61" /><img width="775" height="647" alt="image" src="https://github.com/user-attachments/assets/04eb6782-38a0-4285-ad5c-4505da5c95f1" /># Đồ án 1: Hệ thống thu thập, xử lý và trực quan hóa dữ liệu E-commerce
+# Hệ thống thu thập, xử lý và trực quan hóa dữ liệu E-commerce
 
 ## 1. Mô tả dự án
 
