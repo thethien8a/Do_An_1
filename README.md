@@ -1,4 +1,4 @@
-# Đồ án 1: Hệ thống thu thập, xử lý và trực quan hóa dữ liệu E-commerce
+<img width="781" height="647" alt="image" src="https://github.com/user-attachments/assets/0e941d4e-749d-4e94-8c46-a59e2d3cce61" /><img width="775" height="647" alt="image" src="https://github.com/user-attachments/assets/04eb6782-38a0-4285-ad5c-4505da5c95f1" /># Đồ án 1: Hệ thống thu thập, xử lý và trực quan hóa dữ liệu E-commerce
 
 ## 1. Mô tả dự án
 
@@ -18,6 +18,22 @@ Hệ thống được thiết kế để hoạt động một cách tự động
 4.  **Trực quan hóa (Visualization)**:
     *   File `Dashboard.pbix` là một Power BI Dashboard đã được thiết kế sẵn.
     *   Người dùng có thể mở file này bằng Power BI Desktop để xem các biểu đồ và phân tích đã được xây dựng từ dữ liệu đã qua xử lý.
+
+Mô hình ERD:  
+<img width="999" height="507" alt="image" src="https://github.com/user-attachments/assets/8e3984c5-e0ea-4a36-8f68-dd474ed0b91a" />
+
+Thiết kế Data Warehouse theo Snowflake Schema:  
+<img width="908" height="683" alt="image" src="https://github.com/user-attachments/assets/7575fe2c-0613-4393-9b40-21ab7a116f63" />
+
+Tóm tắt hệ thống triển khai:  
+<img width="975" height="377" alt="image" src="https://github.com/user-attachments/assets/f8d25bf9-0795-488a-8cd9-c18232bbce0c" />
+
+Đầu ra dashboard:  
+1. Dashboard 1:  
+<img width="775" height="647" alt="image" src="https://github.com/user-attachments/assets/aeeb6738-5137-457c-8b75-1c2cdef8db4b" />
+
+2. Dashboard 2:
+<img width="781" height="647" alt="image" src="https://github.com/user-attachments/assets/a2de599b-7973-49ba-ad2f-94dca847c165" />
 
 ## 3. Cấu trúc thư mục
 
