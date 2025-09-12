@@ -19,7 +19,7 @@ Hệ thống được thiết kế để hoạt động một cách tự động
     *   File `Dashboard.pbix` là một Power BI Dashboard đã được thiết kế sẵn.
     *   Người dùng có thể mở file này bằng Power BI Desktop để xem các biểu đồ và phân tích đã được xây dựng từ dữ liệu đã qua xử lý.
 
-Mô hình ERD:  
+Mô hình OLTP:  
 <img width="999" height="507" alt="image" src="https://github.com/user-attachments/assets/8e3984c5-e0ea-4a36-8f68-dd474ed0b91a" />
 
 Thiết kế Data Warehouse theo Snowflake Schema:  
