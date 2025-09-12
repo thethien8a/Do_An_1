@@ -22,7 +22,7 @@ Hệ thống được thiết kế để hoạt động một cách tự động
 Mô hình OLTP:  
 <img width="999" height="507" alt="image" src="https://github.com/user-attachments/assets/8e3984c5-e0ea-4a36-8f68-dd474ed0b91a" />
 
-Thiết kế Data Warehouse theo Snowflake Schema:  
+OLAP:  
 <img width="908" height="683" alt="image" src="https://github.com/user-attachments/assets/7575fe2c-0613-4393-9b40-21ab7a116f63" />
 
 Tóm tắt hệ thống triển khai:  
